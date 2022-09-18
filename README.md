@@ -1,4 +1,4 @@
 # PacMan
-Project for course, Computer Sciences Introduction
-Run it with 
-DEV-C++,5.11.492 for Windows
+Project for course: Introduction to Computer Sciences
+Run it with DEV-C++,5.11.492 for Windows
+For more info to run the project, see Demo.mkv
